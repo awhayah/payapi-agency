@@ -1,4 +1,2 @@
 #
-payapi webpage jenkins pipeline test
-agba cloud
-testing changes in code repo to trigger pipeline
+testing triggers for jenkins pipeline by initiating a change in the read me doc
